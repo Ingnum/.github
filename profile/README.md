@@ -1,7 +1,8 @@
+<br />
 
-<h1 align="center">IceServerラボへようこそ！！</h1>
+<h1 align="center">イングナムネットワークスへようこそ！！</h1>
 
-<br>
+<br />
 
 <p align="center">
   <a href="https://www.ingnum.net/"><img src="https://raw.githubusercontent.com/Ingnum/.github/main/profile/banner.png" alt="Banner" width="800px"></a>
